@@ -161,6 +161,11 @@ Copy
 pip install -r requirements.txt
 If you are using a different Python environment, make sure the required libraries are installed in that environment before running the app.
 
+## Project Repositories
+
+**Frontend:** [TMS Frontend](https://github.com/Mehrulnisa1/TMS-FRONTEND-FOR-RENDER)
+**Backend:** [TMS Backend](https://github.com/Mehrulnisa1/TMS-Backend-for-render)
+
 Running the Backend
 Start the FastAPI backend from the project root or inside the backend folder:
 
